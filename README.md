@@ -12,7 +12,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [Typescript](https://www.typescriptlang.org/)
 - [Expo](https://expo.dev/)
 
-Principais pacotes extra instalados:
+Principais pacotes instalados:
 
 - [React Navigation](https://reactnavigation.org/)
 - [React Hook Form](https://react-hook-form.com/)
@@ -23,15 +23,13 @@ Principais pacotes extra instalados:
 - [Auth Session](https://docs.expo.dev/versions/latest/sdk/auth-session/)
 - [Axios](https://axios-http.com/ptbr/docs/intro)
 
-## ⚙️ O que o apo faz?
+## ⚙️ O que o app faz?
 
 - Autenticação de usuário
 - Registro e listagem de transações
 - Resumo via gráfico de transações de entrada e saída
 
 ## [](https://github.com/JessicaLopesDev/GoFinances) 🚀 Como executar o projeto
-
-### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina:
 
@@ -41,11 +39,11 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 
 ```bash
 
-# Clone este repositório
+# Clone o repositório
 
 $ git clone https://github.com/JessicaLopesDev/GoFinances.git
 
-# Acesse a pasta do projeto no seu terminal/cmd
+# Acesse a pasta do projeto
 
 $ cd GoFinances
 
