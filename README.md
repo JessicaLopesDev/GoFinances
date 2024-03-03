@@ -2,7 +2,7 @@
 
 <img src="./src/assets/gofinances.png"/>
 
-Dashboard desenvolvido utilizando ReactJs e TypeScript. Criação de um layout responsivo com Grid Layout e Flexbox. Nesse projeto, além de aprender a criar gráficos e aplicar animações, também criei temas de cores e permiti que o usuário troque o tema (dark e light).
+Aplicativo desenvolvido para controle financeiro de entradas e saídas com relatório em gráfico utilizando React Native e TypeScript.
 
 <a href="https://www.figma.com/file/noeKRdNByOvwA5u253pOhg/GoFinances-Ignite-(Copy)">
 <img src="https://user-images.githubusercontent.com/71772559/178192253-4fe4757c-de57-4878-a38c-a483c25670b1.png"/>
